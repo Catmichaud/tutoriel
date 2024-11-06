@@ -1,0 +1,50 @@
+{
+    "name": "Tutoriel",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "Tutoriel_image.md",
+        "Tutoriel_nom.md",
+        "Tutoriel_dessin.md",
+        "Tutroriel_Boutons.md",
+        "Tutoriel_Coeur_batant.md",
+        "Tutoriel_temperature.md",
+        "Tutoriel_Veilleuse.md",
+        "Tutoriel_temperature_graphique.md",
+        "Tutoriel_veilleuse_graphique.md",
+        "Tutoriel_de_a_6_face.md",
+        "Tutoriel_roche_papier_.md",
+        "Tutoriel_Decompte_musical.md",
+        "Tutoriel_melodie_inspirante.md",
+        "Tutoriel_serrure.md",
+        "Tutoriel_animation_et_compteur.md",
+        "Tutoriel_Mot_de_passe.md",
+        "Tutoriel_bateau_coule.md",
+        "Tutoriel_chauve_souris.md",
+        "Tutoriel_athlele.md",
+        "Tutoriel_nuit_etoilee.md",
+        "Tutoriel_Boussole.md",
+        "Tutoriel_Message_sercret.md",
+        "Tutoriel_test_amitie.md",
+        "Tutoriel_recepteur_signal.md",
+        "Tutoriel_emeteur_de_signal.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.51",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
